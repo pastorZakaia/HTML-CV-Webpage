@@ -1,8 +1,9 @@
 ## Personal Webpage Resume
 
 
-* Web page displaying my skills and experience
-* Technologies:
+# Web page displaying my skills and experience
+
+Technologies:
 -   CSS/Bootstrap
 -    HTML
 
