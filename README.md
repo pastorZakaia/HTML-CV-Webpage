@@ -9,10 +9,10 @@ Technologies:
 
 ##  HTML CV Webpage
 # Overview
-Welcome to my Virtual CV Webpage project! This project serves as a practical example of how to create a personal CV webpage using HTML and CSS. The goal of this project is to help individuals build online presence by creating a professional, visually appealing, and easily accessible online CV.
+Welcome to my Virtual CV Webpage project! This project serves as a practical example of a personal CV webpage using HTML and CSS. The goal of this project is to make a professional, visually appealing, and easily accessible online CV.
 
 # Why This Project is Important
-Creating an online CV is an essential skill for anyone entering the job market, particularly in the tech industry. A well-crafted online CV allows me to showcase your skills, experience, and projects in a dynamic way that a traditional paper CV cannot. It demonstrates proficiency in web development, attention to detail, and your ability to create user-friendly interfaces.
+Creating an online CV is an essential skill for anyone entering the job market, particularly in the tech industry. A well-crafted online CV allows me to showcase my skills, experience, and projects in a dynamic way that a traditional paper CV cannot. It demonstrates proficiency in web development, attention to detail, and my ability to create user-friendly interfaces.
 
 Project Features
 - Responsive Design: Ensures that CV looks great on all devices, from desktops to smartphones.
